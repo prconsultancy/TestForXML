@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imadirectory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<member>
+		<id>1</id>
+		<name>Mishra Amit</name>
+		<age>27</age>
+		<contact>9428010185</contact>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
+		<batchname>G-Force</batchname>
+		<timing>13:00 to 16:00</timing>
+		<joiningdate>01-12-2013</joiningdate>
+		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adalja%20Harshad.png</image>
+	</member>
+	<member>
+		<id>2</id>
+		<name>Kumar Bhuvneswar</name>
+		<age>28</age>
+		<contact>9428010185</contact>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
+		<batchname>G-Force</batchname>
+		<timing>13:00 to 16:00</timing>
+		<joiningdate>01-12-2013</joiningdate>
+		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adani-Hineshkuma.png</image>
+	</member>
+	<member>
+		<id>3</id>
+		<name>Kartik Dinesh</name>
+		<age>28</age>
+		<contact>9428010185</contact>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
+		<batchname>G-Force</batchname>
+		<timing>13:00 to 16:00</timing>
+		<joiningdate>01-12-2013</joiningdate>
+		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adani-Hineshkuma.png</image>
+	</member>
+	<member>
+		<id>4</id>
+		<name>Sharma Ishant</name>
+		<age>28</age>
+		<contact>9428010185</contact>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
+		<batchname>G-Force</batchname>
+		<timing>13:00 to 16:00</timing>
+		<joiningdate>01-12-2013</joiningdate>
+		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adani-Hineshkuma.png</image>
+	</member>
+	<member>
+		<id>5</id>
+		<name> Dhoni MahendraSingh</name>
+		<age>28</age>
+		<contact>9428010185</contact>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
+		<batchname>G-Force</batchname>
+		<timing>13:00 to 16:00</timing>
+		<joiningdate>01-12-2013</joiningdate>
+		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adani-Hineshkuma.png</image>
+	</member>
+	<member>
+		<id>6</id>
+		<name>Ravichandran Ashwin</name>
+		<age>28</age>
+		<contact>9428010185</contact>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
+		<batchname>G-Force</batchname>
+		<timing>13:00 to 16:00</timing>
+		<joiningdate>01-12-2013</joiningdate>
+		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adani-Hineshkuma.png</image>
+	</member>
+	<member>
+		<id>7</id>
+		<name>Jajeda Ravindra</name>
+		<age>20</age>
+		<contact>9428010185</contact>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
+		<batchname>G-Force</batchname>
+		<timing>13:00 to 16:00</timing>
+		<joiningdate>01-12-2013</joiningdate>
+		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adani-Hineshkuma.png</image>
+	</member>
+	<member>
+		<id>8</id>
+		<name>Dhawan Shikhar</name>
+		<age>28</age>
+		<contact>9428010185</contact>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
+		<batchname>G-Force</batchname>
+		<timing>13:00 to 16:00</timing>
+		<joiningdate>01-12-2013</joiningdate>
+		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adani-Hineshkuma.png</image>
+	</member>
+	<member>
+		<id>9</id>
+		<name>Raina Suresh</name>
+		<age>28</age>
+		<contact>9428010185</contact>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
+		<batchname>G-Force</batchname>
+		<timing>13:00 to 16:00</timing>
+		<joiningdate>01-12-2013</joiningdate>
+		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adani-Hineshkuma.png</image>
+	</member>
+	<member>
+		<id>10</id>
+		<name>Kohli Virat</name>
+		<age>28</age>
+		<contact>9428010185</contact>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
+		<batchname>G-Force</batchname>
+		<timing>13:00 to 16:00</timing>
+		<joiningdate>01-12-2013</joiningdate>
+		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adani-Hineshkuma.png</image>
+	</member>
+</imadirectory>
