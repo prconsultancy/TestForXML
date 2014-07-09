@@ -40,6 +40,7 @@
 		<id>4</id>
 		<name>Sharma Ishant</name>
 		<age>28</age>
+		<playingroll>Bowler</playingroll>
 		<contact>9428010185</contact>
 		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
 		<batchname>G-Force</batchname>
@@ -51,6 +52,7 @@
 		<id>5</id>
 		<name> Dhoni MahendraSingh</name>
 		<age>28</age>
+		<playingroll>Wicket-Keeper</playingroll>
 		<contact>9428010185</contact>
 		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
 		<batchname>G-Force</batchname>
@@ -62,6 +64,7 @@
 		<id>6</id>
 		<name>Ravichandran Ashwin</name>
 		<age>28</age>
+		<playingroll>Bowler</playingroll>
 		<contact>9428010185</contact>
 		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
 		<batchname>G-Force</batchname>
@@ -73,6 +76,7 @@
 		<id>7</id>
 		<name>Jajeda Ravindra</name>
 		<age>20</age>
+		<playingroll>All-Rounder</playingroll>
 		<contact>9428010185</contact>
 		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
 		<batchname>G-Force</batchname>
@@ -84,6 +88,7 @@
 		<id>8</id>
 		<name>Dhawan Shikhar</name>
 		<age>28</age>
+		<playingroll>Batsman</playingroll>
 		<contact>9428010185</contact>
 		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
 		<batchname>G-Force</batchname>
@@ -95,6 +100,7 @@
 		<id>9</id>
 		<name>Raina Suresh</name>
 		<age>28</age>
+		<playingroll>Batsman</playingroll>
 		<contact>9428010185</contact>
 		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
 		<batchname>G-Force</batchname>
@@ -106,6 +112,7 @@
 		<id>10</id>
 		<name>Kohli Virat</name>
 		<age>28</age>
+		<playingroll>Batsman</playingroll>
 		<contact>9428010185</contact>
 		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
 		<batchname>G-Force</batchname>
