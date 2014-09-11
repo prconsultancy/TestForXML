@@ -2,122 +2,242 @@
 <imadirectory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<member>
 		<id>1</id>
-		<name>Mishra Amit</name>
-		<age>27</age>
-		<playingroll>Bolwer</playingroll>
-		<contact>9428010185</contact>
-		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
-		<batchname>G-Force</batchname>
-		<timing>13:00 to 16:00</timing>
-		<joiningdate>01-12-2013</joiningdate>
-		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/amitmishra.png</image>
+		<name> R.C Phaldu</name>
+		<qualification>Pradesh Pramukhshree</qualification>
+		<contact>9978406060</contact>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
+		<image>https://github.com/prconsultancy/TestForXML/edit/master/GForcePlayers.xml</image>
 	</member>
 	<member>
 		<id>2</id>
-		<name>Kumar Bhuvneswar</name>
-		<age>28</age>
-		<playingroll>Bolwer</playingroll>
-		<contact>9428010185</contact>
-		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
-		<batchname>G-Force</batchname>
-		<timing>13:00 to 16:00</timing>
-		<joiningdate>01-12-2013</joiningdate>
-		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/bhuvneswarkumar.png</image>
+		<name> Mangubhai </name>
+		<qualification>Pradesh Uppramukhshree</qualification>
+		<contact>9978406028</contact>
+		<add>Dashashrimali V. M. Trust Hospital, Kothariya Naka, Rajkot - 360009</add>
+		<image>asdsdasdasdas</image>
 	</member>
 	<member>
 		<id>3</id>
-		<name>Kartik Dinesh</name>
-		<age>28</age>
-		<playingroll>Wicket-Keeper</playingroll>
-		<contact>9428010185</contact>
-		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
-		<batchname>G-Force</batchname>
-		<timing>13:00 to 16:00</timing>
-		<joiningdate>01-12-2013</joiningdate>
-		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/dineshkartik.png</image>
+		<name> Kaushikbhai </name>
+		<qualification>Pradesh Uppramukhshree</qualification>
+		<contact>9898000098</contact>
+		<office>9978405844</office>
+		<add>Aghera Hospital 78 - A, Panchayat Nagar, Street No. 2, Rampark Main Road, University Road, Rajkot 360005</add>
+		<image>asdsdasdasdas</image>
 	</member>
 	<member>
 		<id>4</id>
-		<name>Sharma Ishant</name>
-		<age>28</age>
-		<playingroll>Bowler</playingroll>
-		<contact>9428010185</contact>
-		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
-		<batchname>G-Force</batchname>
-		<timing>13:00 to 16:00</timing>
-		<joiningdate>01-12-2013</joiningdate>
-		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/ishantsharma.png</image>
+		<name> I.K.Jadeja</name>
+		<qualification>Pradesh Uppramukhshree</qualification>
+		<contact>9429306026</contact>
+		<office>9978405808</office>
+		<add>Aghera Maternity and Surgical Hospital, 1 Nandkishor Society, Block No. 22, B/h. Fieldmarshal Patel wadi, Nr. Laxminagar 360004</add>
+		<image>asdsdasdasdas</image>
 	</member>
 	<member>
 		<id>5</id>
-		<name> Dhoni MahendraSingh</name>
-		<age>28</age>
-		<playingroll>Wicket-Keeper</playingroll>
-		<contact>9428010185</contact>
-		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
-		<batchname>G-Force</batchname>
-		<timing>13:00 to 16:00</timing>
-		<joiningdate>01-12-2013</joiningdate>
-		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/msdhoni.png</image>
+		<name> Kanjibhai</name>
+		<qualification>Pradesh Uppramukhshree</qualification>
+		<contact>9327426050</contact>
+		<add>Shree Clinic, Nr. Swaminarayan Chowk, Krishnanagar Main Road, Rajkot</add>
+		<image>asdsdasdasdas</image>
 	</member>
 	<member>
 		<id>6</id>
-		<name>Ravichandran Ashwin</name>
-		<age>28</age>
-		<playingroll>Bowler</playingroll>
-		<contact>9428010185</contact>
-		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
-		<batchname>G-Force</batchname>
-		<timing>13:00 to 16:00</timing>
-		<joiningdate>01-12-2013</joiningdate>
-		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/ravichndranashwin.png</image>
+		<name> Shambhuprasad </name>
+		<qualification>Pradesh Uppramukhshree</qualification>
+		<contact>9924222294</contact>
+		<office>9977722294</office>
+		<add>Aghera Maternity and Surgical Hospital, 1 Nandkishor Society, Block No. 22, B/h. Fieldmarshal Patel wadi, Nr. Laxminagar 360004</add>
+		<image>asdsdasdasdas</image>
 	</member>
 	<member>
 		<id>7</id>
-		<name>Jajeda Ravindra</name>
-		<age>20</age>
-		<playingroll>All-Rounder</playingroll>
-		<contact>9428010185</contact>
-		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
-		<batchname>G-Force</batchname>
-		<timing>13:00 to 16:00</timing>
-		<joiningdate>01-12-2013</joiningdate>
-		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/ravindrajajeda.png</image>
+		<name>Ramilaben</name>
+		<qualification>Pradesh Uppramukhshree</qualification>
+		<contact>9426379174</contact>
+		<add>33/36 Karanpara, Opp. Samrat Hotel, B/h. Bus Station, Rajkot - 360001</add>
+		<image>asdsdasdasdas</image>
 	</member>
 	<member>
 		<id>8</id>
-		<name>Dhawan Shikhar</name>
-		<age>28</age>
-		<playingroll>Batsman</playingroll>
-		<contact>9428010185</contact>
-		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
-		<batchname>G-Force</batchname>
-		<timing>13:00 to 16:00</timing>
-		<joiningdate>01-12-2013</joiningdate>
-		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/shikhardhawan.png</image>
+		<name>Sandhayaben</name>
+		<qualification>Pradesh Uppramukhshree</qualification>
+		<contact>9825517663</contact>
+		<office>9714707111</office>
+		<add>Department of Pathology, P.D.U. Medical College, City Civil Hospital Campus, Rajkot - 360001</add>
+		<image>asdsdasdasdas</image>
 	</member>
 	<member>
 		<id>9</id>
-		<name>Raina Suresh</name>
-		<age>28</age>
-		<playingroll>Batsman</playingroll>
-		<contact>9428010185</contact>
-		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
-		<batchname>G-Force</batchname>
-		<timing>13:00 to 16:00</timing>
-		<joiningdate>01-12-2013</joiningdate>
-		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/sureshraina.png</image>
+		<name>jayshreeben Patel</name>
+		<qualification>Pradesh Uppramukhshree</qualification>
+		<contact>3426515751</contact>
+		<office>9013180321</office>
+		<add>Dean - C.U. Shah Medical College, Surendranagar</add>
+		<image>asdsdasdasdas</image>
 	</member>
 	<member>
 		<id>10</id>
-		<name>Kohli Virat</name>
-		<age>28</age>
-		<playingroll>Batsman</playingroll>
-		<contact>9428010185</contact>
-		<add>Mohammed Bin Rashid Boulevard | Downtown Dubai, Dubai 9440, United Arab Emirates</add>
-		<batchname>G-Force</batchname>
-		<timing>13:00 to 16:00</timing>
-		<joiningdate>01-12-2013</joiningdate>
-		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/viratkohli.png</image>
+		<name>Ilaba Jadeja</name>
+		<qualification>Pradesh Uppramukhshree</qualification>
+		<contact>9825804551</contact>
+		<add>Dean - C.U. Shah Medical College, Surendranagar</add>
+		<image>asdsdasdasdas</image>
 	</member>
+	<member>
+		<id>11</id>
+		<name>Mayurika jadav</name>
+		<qualification>Pradesh Uppramukhshree</qualification>
+		<contact>9426152300</contact>
+		<office>9427793600</office>
+		<add>Dean - C.U. Shah Medical College, Surendranagar</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>12</id>
+		<name>kanjibhai</name>
+		<qualification>Pradesh Uppramukhshree</qualification>
+		<contact>9327426050</contact>
+		<add>Dean - C.U. Shah Medical College, Surendranagar</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>13</id>
+		<name>Bhikhubhai</name>
+		<qualification>Pradesh Mahamantrishree</qualification>
+		<contact>9825219120</contact>
+		<add>Dean - C.U. Shah Medical College, Surendranagar</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>14</id>
+		<name>vijaybhai rupani</name>
+		<qualification>Pradesh Mahamantrishree</qualification>
+		<contact>9824811185</contact>
+		<office>9426020100</office>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360002</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>15</id>
+		<name>Baratbhai</name>
+		<qualification>Pradesh Mahamantrishree</qualification>
+		<contact>9426477877</contact>
+		<office>9978277877</office>
+		<add>Dashashrimali V. M. Trust Hospital, Kothariya Naka, Rajkot - 360010</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>16</id>
+		<name>Sankarsigh </name>
+		<qualification>Pradesh Mahamantrishree</qualification>
+		<contact>9825313199</contact>
+		<add>Aghera Hospital 78 - A, Panchayat Nagar, Street No. 2, Rampark Main Road, University Road, Rajkot 360006</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>17</id>
+		<name>Bharatbhai </name>
+		<qualification>Pradesh Mahamantrishree</qualification>
+		<contact>9825010329</contact>
+		<add>Aghera Maternity and Surgical Hospital, 1 Nandkishor Society, Block No. 22, B/h. Fieldmarshal Patel wadi, Nr. Laxminagar 360005</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>18</id>
+		<name>Mansukhbhai</name>
+		<qualification>Pradesh Mantrishree</qualification>
+		<contact>9826211670</contact>
+		<add>Shree Clinic, Nr. Swaminarayan Chowk, Krishnanagar Main Road, Rajkot</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>19</id>
+		<name>Sankarbhai vegad</name>
+		<qualification>Pradesh Mantrishree</qualification>
+		<contact>9898207095</contact>
+		<office>9013181951</office>
+		<add>Aghera Maternity and Surgical Hospital, 1 Nandkishor Society, Block No. 22, B/h. Fieldmarshal Patel wadi, Nr. Laxminagar 360005</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>20</id>
+		<name>Vivekbhai</name>
+		<qualification>Pradesh Mantrishree</qualification>
+		<contact>9824125425</contact>
+		<add>33/36 Karanpara, Opp. Samrat Hotel, B/h. Bus Station, Rajkot - 360002</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>21</id>
+		<name>Varshaben rana</name>
+		<qualification>Pradesh Mantrishree</qualification>
+		<contact>9825253087</contact>
+		<add>Department of Pathology, P.D.U. Medical College, City Civil Hospital Campus, Rajkot - 360002</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>22</id>
+		<name>Shabdasaranbhai</name>
+		<qualification>Pradesh Mantrishree</qualification>
+		<contact>9238077799</contact>
+		<add>Dean - C.U. Shah Medical College, Surendranagar</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>23</id>
+		<name>Sumitraben</name>
+		<qualification>Pradesh Mantrishree</qualification>
+		<contact>9978783746</contact>
+		<office>9828975375</office>
+		<add>P. D. U., Civil Hospital, Rajkot</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>24</id>
+		<name>Valiben</name>
+		<qualification>Pradesh Mantrishree</qualification>
+		<contact>9099023875</contact>
+		<office>9819141875</office>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>25</id>
+		<name>Naynaben </name>
+		<qualification>Pradesh Mantrishree</qualification>
+		<contact>9825603799</contact>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>26</id>
+		<name>Harshdgiri goswami</name>
+		<qualification>Pradesh Mantrishree</qualification>
+		<contact>9824062696</contact>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>27</id>
+		<name>Ramanbhai </name>
+		<qualification>Pradesh Mantrishree</qualification>
+		<contact>9998846402</contact>
+		<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360003</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>28</id>
+		<name>Surendrabhai</name>
+		<qualification>Pradesh Koshaadhyakshree</qualification>
+		<contact>9825032389</contact>
+		<add>Dashashrimali V. M. Trust Hospital, Kothariya Naka, Rajkot - 360011</add>
+		<image>asdsdasdasdas</image>
+	</member>
+	<member>
+		<id>29</id>
+		<name>Pareshbhai</name>
+		<qualification>Pradesh Karyalay Mantrishree</qualification>
+		<contact>9426011529</contact>
+		<add>Aghera Hospital 78 - A, Panchayat Nagar, Street No. 2, Rampark Main Road, University Road, Rajkot 360007</add>
+		<image>asdsdasdasdas</image>
+	<member/>
 </imadirectory>
