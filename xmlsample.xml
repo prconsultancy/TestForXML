@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<root>
+  <category>
+    <name>category1</name>
+    <subCategory>
+      <name>subCategory1</name>
+      <product>
+        <name>productName1</name>
+        <desc>desc1</desc>
+      </product>
+      <product>
+        <name>productName2</name>
+        <desc>desc2</desc>
+      </product>
+    </subCategory>
+  </category>
+  <category>
+    <name>category2</name>
+    <subCategory>
+      <name>subCategory2.1</name>
+      <product>
+        <name>productName2.1.1</name>
+        <desc>desc1</desc>
+      </product>
+      <product>
+        <name>productName2.1.2</name>
+        <desc>desc2</desc>
+      </product>
+    </subCategory>
+  </category>
+</root>
