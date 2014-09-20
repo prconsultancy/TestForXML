@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imadirectory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<maincategory>
+		<category>Ministers</category>
 	<member>
 		<id>1</id>
 		<name>Shree R.C Faldu</name>
@@ -25,6 +27,9 @@
 		<add>Aghera Hospital 78 - A, Panchayat Nagar, Street No. 2, Rampark Main Road, University Road, Rajkot 360005</add>
 		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Kausikbhai-Patel.png</image>
 	</member>
+	</maincategory>
+	<maincategory>
+		<category>Nationa Minister's</category>
 	<member>
 		<id>4</id>
 		<name>Shree I. K. Jadeja</name>
@@ -59,6 +64,9 @@
 		<add>33/36 Karanpara, Opp. Samrat Hotel, B/h. Bus Station, Rajkot - 360001</add>
 		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Shrimati-Ramilaben-Bara.png</image>
 	</member>
+	</maincategory>
+	<maincategory>
+		<category>International Minister's</category>
 	<member>
 		<id>8</id>
 		<name>Su. Shree Sandhyaban Vyas</name>
@@ -102,6 +110,9 @@
 		<add>Dean - C.U. Shah Medical College, Surendranagar</add>
 		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Kanaji-Thakor.png</image>
 	</member>
+	</maincategory>
+	<maincategory>
+		<category>International Minister's</category>
 	<member>
 		<id>13</id>
 		<name>Shree Bhikhubhai Dalsaniya</name>
@@ -240,4 +251,5 @@
 		<add>Aghera Hospital 78 - A, Panchayat Nagar, Street No. 2, Rampark Main Road, University Road, Rajkot 360007</add>
 		<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Shree-Pareshbhai-Patel.png</image>
 	</member>
+	</maincategory>
 </imadirectory>
