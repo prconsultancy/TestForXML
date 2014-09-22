@@ -1,31 +1,101 @@
-<?xml version="1.0"?>
-<root>
-  <category>
-    <name>category1</name>
-    <subCategory>
-      <name>subCategory1</name>
-      <product>
-        <name>productName1</name>
-        <desc>desc1</desc>
-      </product>
-      <product>
-        <name>productName2</name>
-        <desc>desc2</desc>
-      </product>
-    </subCategory>
-  </category>
-  <category>
-    <name>category2</name>
-    <subCategory>
-      <name>subCategory2.1</name>
-      <product>
-        <name>productName2.1.1</name>
-        <desc>desc1</desc>
-      </product>
-      <product>
-        <name>productName2.1.2</name>
-        <desc>desc2</desc>
-      </product>
-    </subCategory>
-  </category>
-</root>
+<imadirectory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<categoryid>1</categoryid>
+	<categoryname>Ministers</categoryname>
+	<memberlist>
+		<member>
+			<id>1</id>
+			<name>Shree R.C Faldu</name>
+			<age>Pradesh Pramukhshree</age>
+			<contact>9978406060</contact>
+			<add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
+			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/r-c-faddu.png</image>
+		</member>
+		<member>
+			<id>2</id>
+			<name>Shree Mangubhai Chhaganbhai Patel (MLA)</name>
+			<age>Pradesh Uppramukhshree</age>
+			<contact>9978406028</contact>
+			<add>Dashashrimali V. M. Trust Hospital, Kothariya Naka, Rajkot - 360009</add>
+			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Magubhai-Chaganbhai-Patel.png</image>
+		</member>
+	</memberlist>
+	<categoryid>2</categoryid>
+	<categoryname>National Ministers</categoryname>
+	<memberlist>
+		<member>
+			<id>3</id>
+			<name>Shree Kaushikbhai Patel</name>
+			<age>Pradesh Uppramukhshree</age>
+			<contact>9898000098</contact>
+			<office>9978405844</office>
+			<add>Aghera Hospital 78 - A, Panchayat Nagar, Street No. 2, Rampark Main Road, University Road, Rajkot 360005</add>
+			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Kausikbhai-Patel.png</image>
+		</member>
+		<category>Nationa Minister's</category>
+		<member>
+			<id>4</id>
+			<name>Shree I. K. Jadeja</name>
+			<age>Pradesh Uppramukhshree</age>
+			<contact>9429306026</contact>
+			<office>9978405808</office>
+			<add>Aghera Maternity and Surgical Hospital, 1 Nandkishor Society, Block No. 22, B/h. Fieldmarshal Patel wadi, Nr. Laxminagar 360004</add>
+			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/I-K-Jadeja.png</image>
+		</member>
+		<member>
+			<id>5</id>
+			<name>Shree Kanajee Thakor</name>
+			<age>Pradesh Uppramukhshree</age>
+			<contact>9327426050</contact>
+			<add>Shree Clinic, Nr. Swaminarayan Chowk, Krishnanagar Main Road, Rajkot</add>
+			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Kanaji-Thakor.png</image>
+		</member>
+	</memberlist>
+	<categoryid>3</categoryid>
+	<categoryname>RajyaSabha Ministers</categoryname>
+	<memberlist>
+		<member>
+			<id>6</id>
+			<name>Shree Shambhuprasad Baldevdasjee Tundiya</name>
+			<age>Pradesh Uppramukhshree</age>
+			<contact>9924222294</contact>
+			<office>9977722294</office>
+			<add>Aghera Maternity and Surgical Hospital, 1 Nandkishor Society, Block No. 22, B/h. Fieldmarshal Patel wadi, Nr. Laxminagar 360004</add>
+			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Shambhuprasad-Tundiya.png</image>
+		</member>
+		<member>
+			<id>7</id>
+			<name>Smt. Rameelaban Baara</name>
+			<age>Pradesh Uppramukhshree</age>
+			<contact>9426379174</contact>
+			<add>33/36 Karanpara, Opp. Samrat Hotel, B/h. Bus Station, Rajkot - 360001</add>
+			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Shrimati-Ramilaben-Bara.png</image>
+		</member>
+		<category>International Minister's</category>
+		<member>
+			<id>8</id>
+			<name>Su. Shree Sandhyaban Vyas</name>
+			<age>Pradesh Uppramukhshree</age>
+			<contact>9825517663</contact>
+			<office>9714707111</office>
+			<add>Department of Pathology, P.D.U. Medical College, City Civil Hospital Campus, Rajkot - 360001</add>
+			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Shree-Sandhyaben-Vyash.png</image>
+		</member>
+		<member>
+			<id>9</id>
+			<name>Shree Jayshreeban K. Patel (MP)</name>
+			<age>Pradesh Uppramukhshree</age>
+			<contact>3426515751</contact>
+			<office>9013180321</office>
+			<add>Dean - C.U. Shah Medical College, Surendranagar</add>
+			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Jayshreeben-k-Patel.png</image>
+		</member>
+		<member>
+			<id>10</id>
+			<name>Shree Ilaaba M. Jadeja</name>
+			<age>Pradesh Uppramukhshree</age>
+			<contact>9825804551</contact>
+			<add>Dean - C.U. Shah Medical College, Surendranagar</add>
+			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Shree-Ilaba-M-Jadeja.png</image>
+		</member>
+	</memberlist>
+</imadirectory>
