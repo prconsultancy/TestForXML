@@ -26,7 +26,7 @@
 			<add>Aghera Hospital 78 - A, Panchayat Nagar, Street No. 2, Rampark Main Road, University Road, Rajkot 360005</add>
 			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Kausikbhai-Patel.png</image>
 		</member>
-	</category>
+	</categoryid>
 	<categoryid = "National Minister">
 		<member>
 			<id>4</id>
@@ -62,8 +62,8 @@
 			<add>33/36 Karanpara, Opp. Samrat Hotel, B/h. Bus Station, Rajkot - 360001</add>
 			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Shrimati-Ramilaben-Bara.png</image>
 		</member>
-	</category>
-	<category>International Minister's</category>
+	</categoryid>
+	<categoryid = "International Minister">
 		<member>
 			<id>8</id>
 			<name>Su. Shree Sandhyaban Vyas</name>
@@ -107,6 +107,7 @@
 			<add>Dean - C.U. Shah Medical College, Surendranagar</add>
 			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Kanaji-Thakor.png</image>
 		</member>
+	</categoryid>
 	<categoryid = "International Minister" >
 		<member>
 			<id>13</id>
@@ -246,5 +247,5 @@
 			<add>Aghera Hospital 78 - A, Panchayat Nagar, Street No. 2, Rampark Main Road, University Road, Rajkot 360007</add>
 			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Shree-Pareshbhai-Patel.png</image>
 		</member>
-	</category>
+	</categoryid>
 </imadirectory>
