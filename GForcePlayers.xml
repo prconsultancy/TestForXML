@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imadirectory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<category id = "Minister">
+	<categoryid = "Minister">
 		<member>
 			<id>1</id>
 			<name>Shree R.C Faldu</name>
@@ -27,7 +27,7 @@
 			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Kausikbhai-Patel.png</image>
 		</member>
 	</category>
-	<category id = "National Minister">
+	<categoryid = "National Minister">
 		<member>
 			<id>4</id>
 			<name>Shree I. K. Jadeja</name>
@@ -107,7 +107,7 @@
 			<add>Dean - C.U. Shah Medical College, Surendranagar</add>
 			<image>https://raw.githubusercontent.com/prconsultancy/TestForXML/master/images/Kanaji-Thakor.png</image>
 		</member>
-	<category id = "International Minister" >
+	<categoryid = "International Minister" >
 		<member>
 			<id>13</id>
 			<name>Shree Bhikhubhai Dalsaniya</name>
